@@ -1,4 +1,4 @@
-package com.ggcakeraft.mvc;
+package com.ggcakraft.mvc;
 
 import java.text.DateFormat;
 import java.util.Date;
